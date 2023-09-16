@@ -8,5 +8,5 @@ Dashboard offers a comprehensive overview of historical and present performance 
 
 – Technology Used: ReactJS, APIs, Bootstrap, ApexCharts, HTML
 
-URL - https://crypto-app-dash-board.netlify.app/
+URL - [https://crypto-app-dash-board.netlify.app/]
 
