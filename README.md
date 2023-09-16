@@ -10,3 +10,5 @@ Dashboard offers a comprehensive overview of historical and present performance 
 
 URL - [https://crypto-app-dash-board.netlify.app/]
 
+![Untitled video - Made with Clipchamp](https://github.com/RahulLodhi12/Crypto-Dashboard/assets/111701793/ac9b8bff-72a2-4d19-9893-c46941ab3c93)
+
