@@ -7,3 +7,6 @@ Dashboard offers a comprehensive overview of historical and present performance 
 – Incorporate a currency conversion tool for added functionality.
 
 – Technology Used: ReactJS, APIs, Bootstrap, ApexCharts, HTML
+
+URL - https://crypto-app-dash-board.netlify.app/
+
